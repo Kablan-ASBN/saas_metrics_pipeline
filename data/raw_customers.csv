@@ -1,0 +1,801 @@
+customer_id,customer_name,signup_date,industry,company_size
+1,Company_0001,2023-04-21,Healthcare,1-10
+2,Company_0002,2024-10-09,Retail,11-50
+3,Company_0003,2024-04-24,Healthcare,51-200
+4,Company_0004,2023-12-18,Healthcare,51-200
+5,Company_0005,2022-07-02,Technology,1-10
+6,Company_0006,2022-07-08,Consulting,51-200
+7,Company_0007,2022-02-18,Retail,201-500
+8,Company_0008,2024-08-23,Consulting,11-50
+9,Company_0009,2023-12-15,Logistics,11-50
+10,Company_0010,2024-03-28,Technology,201-500
+11,Company_0011,2022-01-06,Media,11-50
+12,Company_0012,2024-11-05,Retail,1000+
+13,Company_0013,2024-07-11,Healthcare,1-10
+14,Company_0014,2022-09-04,Manufacturing,201-500
+15,Company_0015,2022-08-20,Education,201-500
+16,Company_0016,2022-08-24,Real Estate,51-200
+17,Company_0017,2023-01-13,Healthcare,51-200
+18,Company_0018,2023-09-27,Logistics,501-1000
+19,Company_0019,2023-06-12,Logistics,11-50
+20,Company_0020,2023-01-03,Technology,51-200
+21,Company_0021,2024-01-25,Education,1000+
+22,Company_0022,2022-07-28,Retail,501-1000
+23,Company_0023,2023-01-13,Education,51-200
+24,Company_0024,2023-03-27,Manufacturing,11-50
+25,Company_0025,2023-07-12,Retail,51-200
+26,Company_0026,2024-06-23,Healthcare,51-200
+27,Company_0027,2022-09-06,Consulting,201-500
+28,Company_0028,2023-09-06,Real Estate,11-50
+29,Company_0029,2023-12-21,Consulting,11-50
+30,Company_0030,2022-02-11,Technology,11-50
+31,Company_0031,2024-01-02,Manufacturing,11-50
+32,Company_0032,2022-08-03,Retail,501-1000
+33,Company_0033,2022-03-19,Manufacturing,11-50
+34,Company_0034,2024-10-16,Media,501-1000
+35,Company_0035,2024-11-21,Real Estate,1-10
+36,Company_0036,2024-06-05,Retail,201-500
+37,Company_0037,2023-01-18,Education,201-500
+38,Company_0038,2022-04-14,Logistics,11-50
+39,Company_0039,2024-02-08,Finance,51-200
+40,Company_0040,2023-06-03,Technology,501-1000
+41,Company_0041,2022-06-05,Finance,201-500
+42,Company_0042,2023-08-14,Logistics,1-10
+43,Company_0043,2022-02-13,Logistics,1000+
+44,Company_0044,2024-09-17,Education,1000+
+45,Company_0045,2022-12-28,Technology,51-200
+46,Company_0046,2024-02-04,Consulting,201-500
+47,Company_0047,2023-02-25,Manufacturing,1-10
+48,Company_0048,2023-09-14,Finance,51-200
+49,Company_0049,2023-10-24,Education,1000+
+50,Company_0050,2022-08-25,Finance,51-200
+51,Company_0051,2024-11-04,Education,201-500
+52,Company_0052,2024-05-17,Logistics,11-50
+53,Company_0053,2024-10-12,Finance,51-200
+54,Company_0054,2024-09-25,Consulting,501-1000
+55,Company_0055,2023-12-20,Manufacturing,51-200
+56,Company_0056,2024-09-04,Manufacturing,501-1000
+57,Company_0057,2022-04-27,Education,11-50
+58,Company_0058,2022-09-08,Logistics,501-1000
+59,Company_0059,2022-02-03,Real Estate,201-500
+60,Company_0060,2023-02-25,Consulting,201-500
+61,Company_0061,2023-04-05,Real Estate,501-1000
+62,Company_0062,2023-01-06,Education,51-200
+63,Company_0063,2024-07-20,Media,1000+
+64,Company_0064,2023-03-18,Retail,201-500
+65,Company_0065,2023-01-13,Manufacturing,11-50
+66,Company_0066,2023-10-17,Real Estate,1-10
+67,Company_0067,2022-07-08,Healthcare,11-50
+68,Company_0068,2024-06-19,Consulting,11-50
+69,Company_0069,2022-03-08,Technology,1-10
+70,Company_0070,2024-12-21,Technology,11-50
+71,Company_0071,2024-05-02,Manufacturing,1-10
+72,Company_0072,2022-09-08,Education,51-200
+73,Company_0073,2022-01-07,Consulting,1-10
+74,Company_0074,2024-07-19,Logistics,51-200
+75,Company_0075,2024-03-26,Real Estate,201-500
+76,Company_0076,2024-04-07,Healthcare,1-10
+77,Company_0077,2024-05-14,Manufacturing,11-50
+78,Company_0078,2022-03-15,Technology,51-200
+79,Company_0079,2023-03-21,Healthcare,1-10
+80,Company_0080,2022-05-24,Manufacturing,201-500
+81,Company_0081,2024-08-04,Retail,11-50
+82,Company_0082,2024-01-18,Real Estate,1-10
+83,Company_0083,2023-02-06,Education,51-200
+84,Company_0084,2022-03-28,Healthcare,11-50
+85,Company_0085,2023-02-28,Consulting,1-10
+86,Company_0086,2023-02-21,Consulting,201-500
+87,Company_0087,2024-04-03,Retail,11-50
+88,Company_0088,2024-01-16,Real Estate,11-50
+89,Company_0089,2024-09-13,Technology,11-50
+90,Company_0090,2023-08-01,Media,11-50
+91,Company_0091,2022-06-26,Real Estate,11-50
+92,Company_0092,2024-03-23,Consulting,51-200
+93,Company_0093,2024-05-16,Finance,11-50
+94,Company_0094,2023-10-07,Technology,51-200
+95,Company_0095,2024-05-18,Technology,201-500
+96,Company_0096,2023-08-02,Technology,51-200
+97,Company_0097,2023-09-17,Consulting,11-50
+98,Company_0098,2023-06-17,Healthcare,501-1000
+99,Company_0099,2022-01-03,Logistics,1-10
+100,Company_0100,2022-05-28,Retail,11-50
+101,Company_0101,2022-02-19,Retail,51-200
+102,Company_0102,2024-01-02,Logistics,1-10
+103,Company_0103,2023-02-22,Logistics,51-200
+104,Company_0104,2023-09-11,Education,11-50
+105,Company_0105,2024-09-23,Manufacturing,11-50
+106,Company_0106,2022-11-13,Finance,51-200
+107,Company_0107,2023-05-10,Real Estate,11-50
+108,Company_0108,2024-05-25,Healthcare,1-10
+109,Company_0109,2022-10-20,Logistics,1000+
+110,Company_0110,2022-03-03,Consulting,11-50
+111,Company_0111,2023-01-09,Finance,501-1000
+112,Company_0112,2022-08-03,Retail,11-50
+113,Company_0113,2024-10-06,Real Estate,201-500
+114,Company_0114,2024-06-23,Education,51-200
+115,Company_0115,2024-01-26,Consulting,1-10
+116,Company_0116,2024-08-27,Consulting,11-50
+117,Company_0117,2024-06-22,Healthcare,501-1000
+118,Company_0118,2022-08-05,Education,1-10
+119,Company_0119,2024-09-04,Consulting,11-50
+120,Company_0120,2023-10-10,Logistics,11-50
+121,Company_0121,2024-06-11,Retail,51-200
+122,Company_0122,2024-09-28,Education,51-200
+123,Company_0123,2023-02-09,Technology,1-10
+124,Company_0124,2022-05-14,Education,1-10
+125,Company_0125,2022-10-11,Finance,51-200
+126,Company_0126,2023-06-09,Finance,201-500
+127,Company_0127,2024-07-18,Media,51-200
+128,Company_0128,2024-08-04,Healthcare,501-1000
+129,Company_0129,2022-01-23,Finance,51-200
+130,Company_0130,2023-09-27,Manufacturing,51-200
+131,Company_0131,2023-06-05,Media,1-10
+132,Company_0132,2022-10-10,Manufacturing,501-1000
+133,Company_0133,2022-06-26,Technology,501-1000
+134,Company_0134,2023-02-07,Retail,51-200
+135,Company_0135,2024-10-12,Consulting,501-1000
+136,Company_0136,2023-02-14,Logistics,201-500
+137,Company_0137,2023-09-08,Finance,1000+
+138,Company_0138,2024-03-26,Finance,501-1000
+139,Company_0139,2023-03-01,Finance,201-500
+140,Company_0140,2024-11-11,Media,201-500
+141,Company_0141,2024-11-28,Retail,11-50
+142,Company_0142,2022-11-26,Healthcare,11-50
+143,Company_0143,2023-08-02,Real Estate,11-50
+144,Company_0144,2023-01-27,Real Estate,11-50
+145,Company_0145,2023-01-27,Retail,11-50
+146,Company_0146,2022-02-22,Retail,11-50
+147,Company_0147,2024-01-09,Healthcare,1000+
+148,Company_0148,2023-09-09,Manufacturing,51-200
+149,Company_0149,2022-02-13,Consulting,11-50
+150,Company_0150,2023-01-01,Healthcare,501-1000
+151,Company_0151,2024-09-09,Finance,51-200
+152,Company_0152,2022-11-09,Technology,1-10
+153,Company_0153,2022-07-14,Manufacturing,201-500
+154,Company_0154,2023-08-11,Media,51-200
+155,Company_0155,2024-12-17,Healthcare,11-50
+156,Company_0156,2022-11-19,Retail,11-50
+157,Company_0157,2024-02-23,Media,1-10
+158,Company_0158,2024-05-26,Consulting,51-200
+159,Company_0159,2022-11-24,Retail,11-50
+160,Company_0160,2024-04-03,Manufacturing,51-200
+161,Company_0161,2023-03-22,Healthcare,201-500
+162,Company_0162,2024-01-10,Consulting,11-50
+163,Company_0163,2024-01-14,Manufacturing,11-50
+164,Company_0164,2023-09-10,Consulting,1-10
+165,Company_0165,2022-04-14,Media,51-200
+166,Company_0166,2024-07-06,Logistics,51-200
+167,Company_0167,2023-02-13,Consulting,201-500
+168,Company_0168,2022-08-10,Education,11-50
+169,Company_0169,2022-02-26,Logistics,51-200
+170,Company_0170,2023-12-11,Real Estate,11-50
+171,Company_0171,2024-02-22,Retail,51-200
+172,Company_0172,2022-01-26,Finance,51-200
+173,Company_0173,2023-09-10,Consulting,51-200
+174,Company_0174,2022-10-20,Manufacturing,1-10
+175,Company_0175,2024-01-25,Retail,51-200
+176,Company_0176,2022-08-08,Retail,1-10
+177,Company_0177,2024-02-02,Retail,1000+
+178,Company_0178,2023-04-20,Healthcare,51-200
+179,Company_0179,2024-10-21,Logistics,11-50
+180,Company_0180,2022-06-23,Media,51-200
+181,Company_0181,2023-02-08,Finance,51-200
+182,Company_0182,2022-05-01,Healthcare,201-500
+183,Company_0183,2024-10-08,Finance,201-500
+184,Company_0184,2024-08-23,Consulting,51-200
+185,Company_0185,2022-12-18,Retail,501-1000
+186,Company_0186,2024-02-04,Real Estate,1-10
+187,Company_0187,2024-07-15,Consulting,1000+
+188,Company_0188,2023-10-20,Manufacturing,1000+
+189,Company_0189,2023-09-15,Logistics,201-500
+190,Company_0190,2022-11-17,Media,201-500
+191,Company_0191,2022-04-18,Real Estate,501-1000
+192,Company_0192,2024-09-24,Real Estate,51-200
+193,Company_0193,2024-09-25,Retail,201-500
+194,Company_0194,2024-01-09,Consulting,51-200
+195,Company_0195,2023-02-08,Education,11-50
+196,Company_0196,2023-03-23,Education,11-50
+197,Company_0197,2024-04-11,Manufacturing,501-1000
+198,Company_0198,2024-09-03,Finance,11-50
+199,Company_0199,2024-09-13,Finance,201-500
+200,Company_0200,2024-05-03,Media,11-50
+201,Company_0201,2024-01-18,Real Estate,11-50
+202,Company_0202,2022-04-07,Media,11-50
+203,Company_0203,2022-08-25,Logistics,501-1000
+204,Company_0204,2024-09-01,Logistics,11-50
+205,Company_0205,2024-01-01,Manufacturing,11-50
+206,Company_0206,2022-01-13,Media,51-200
+207,Company_0207,2022-05-24,Consulting,201-500
+208,Company_0208,2024-02-08,Real Estate,11-50
+209,Company_0209,2022-01-14,Real Estate,1-10
+210,Company_0210,2022-08-11,Media,201-500
+211,Company_0211,2023-10-27,Real Estate,501-1000
+212,Company_0212,2024-02-20,Consulting,1-10
+213,Company_0213,2024-02-13,Logistics,51-200
+214,Company_0214,2022-10-01,Healthcare,51-200
+215,Company_0215,2024-03-05,Real Estate,11-50
+216,Company_0216,2022-11-09,Media,11-50
+217,Company_0217,2023-02-15,Manufacturing,11-50
+218,Company_0218,2024-04-13,Education,201-500
+219,Company_0219,2024-02-27,Media,11-50
+220,Company_0220,2024-08-03,Real Estate,1-10
+221,Company_0221,2024-02-18,Technology,1000+
+222,Company_0222,2023-11-12,Retail,51-200
+223,Company_0223,2022-04-25,Technology,201-500
+224,Company_0224,2023-03-08,Retail,201-500
+225,Company_0225,2022-12-20,Finance,11-50
+226,Company_0226,2022-11-16,Healthcare,51-200
+227,Company_0227,2024-11-07,Real Estate,51-200
+228,Company_0228,2023-05-25,Manufacturing,11-50
+229,Company_0229,2024-09-20,Healthcare,201-500
+230,Company_0230,2024-01-06,Education,1-10
+231,Company_0231,2024-06-01,Education,51-200
+232,Company_0232,2023-09-13,Media,501-1000
+233,Company_0233,2023-11-07,Healthcare,51-200
+234,Company_0234,2023-08-27,Retail,1-10
+235,Company_0235,2022-09-25,Education,501-1000
+236,Company_0236,2024-04-20,Healthcare,201-500
+237,Company_0237,2023-01-19,Technology,11-50
+238,Company_0238,2022-01-14,Manufacturing,1-10
+239,Company_0239,2024-01-21,Manufacturing,1-10
+240,Company_0240,2022-08-14,Real Estate,1-10
+241,Company_0241,2024-10-12,Real Estate,201-500
+242,Company_0242,2024-10-14,Finance,201-500
+243,Company_0243,2024-09-21,Education,51-200
+244,Company_0244,2023-04-18,Real Estate,51-200
+245,Company_0245,2022-01-27,Logistics,11-50
+246,Company_0246,2024-10-28,Retail,201-500
+247,Company_0247,2023-06-03,Education,501-1000
+248,Company_0248,2024-11-08,Real Estate,51-200
+249,Company_0249,2024-11-22,Media,11-50
+250,Company_0250,2024-08-16,Manufacturing,11-50
+251,Company_0251,2023-01-07,Manufacturing,201-500
+252,Company_0252,2023-04-11,Education,501-1000
+253,Company_0253,2024-08-23,Education,51-200
+254,Company_0254,2023-02-17,Retail,1-10
+255,Company_0255,2022-08-24,Media,51-200
+256,Company_0256,2023-10-25,Retail,51-200
+257,Company_0257,2024-10-21,Real Estate,11-50
+258,Company_0258,2024-03-01,Healthcare,11-50
+259,Company_0259,2023-11-13,Retail,11-50
+260,Company_0260,2022-04-19,Manufacturing,51-200
+261,Company_0261,2024-01-17,Manufacturing,11-50
+262,Company_0262,2024-12-24,Consulting,11-50
+263,Company_0263,2022-07-23,Real Estate,11-50
+264,Company_0264,2023-09-09,Retail,1-10
+265,Company_0265,2024-08-07,Manufacturing,1-10
+266,Company_0266,2024-04-18,Finance,11-50
+267,Company_0267,2024-03-24,Real Estate,11-50
+268,Company_0268,2024-03-19,Consulting,51-200
+269,Company_0269,2023-03-04,Retail,11-50
+270,Company_0270,2023-01-12,Finance,11-50
+271,Company_0271,2024-06-23,Consulting,1-10
+272,Company_0272,2024-06-02,Technology,51-200
+273,Company_0273,2024-08-23,Finance,51-200
+274,Company_0274,2024-09-25,Real Estate,1-10
+275,Company_0275,2023-09-01,Logistics,11-50
+276,Company_0276,2023-08-16,Real Estate,11-50
+277,Company_0277,2024-06-02,Education,501-1000
+278,Company_0278,2024-02-16,Healthcare,201-500
+279,Company_0279,2024-03-13,Real Estate,1-10
+280,Company_0280,2024-06-21,Technology,11-50
+281,Company_0281,2024-09-26,Logistics,501-1000
+282,Company_0282,2023-02-03,Retail,1-10
+283,Company_0283,2023-04-25,Media,51-200
+284,Company_0284,2022-04-26,Logistics,11-50
+285,Company_0285,2023-11-17,Media,51-200
+286,Company_0286,2022-02-15,Education,501-1000
+287,Company_0287,2023-07-14,Education,51-200
+288,Company_0288,2023-10-02,Logistics,1000+
+289,Company_0289,2023-01-04,Retail,51-200
+290,Company_0290,2023-12-09,Healthcare,11-50
+291,Company_0291,2022-02-06,Consulting,1-10
+292,Company_0292,2022-02-01,Media,51-200
+293,Company_0293,2024-07-20,Real Estate,11-50
+294,Company_0294,2023-03-08,Education,201-500
+295,Company_0295,2022-06-23,Real Estate,1-10
+296,Company_0296,2023-09-08,Education,201-500
+297,Company_0297,2024-05-21,Logistics,51-200
+298,Company_0298,2022-10-07,Media,1-10
+299,Company_0299,2024-01-08,Finance,501-1000
+300,Company_0300,2022-04-27,Finance,1-10
+301,Company_0301,2022-02-06,Education,51-200
+302,Company_0302,2023-09-27,Logistics,501-1000
+303,Company_0303,2023-10-15,Healthcare,51-200
+304,Company_0304,2024-01-10,Media,501-1000
+305,Company_0305,2024-04-17,Consulting,51-200
+306,Company_0306,2024-11-03,Logistics,1-10
+307,Company_0307,2023-09-14,Manufacturing,51-200
+308,Company_0308,2023-02-01,Healthcare,11-50
+309,Company_0309,2024-06-22,Logistics,51-200
+310,Company_0310,2023-01-01,Education,51-200
+311,Company_0311,2023-06-25,Finance,51-200
+312,Company_0312,2022-03-21,Real Estate,501-1000
+313,Company_0313,2022-01-06,Logistics,11-50
+314,Company_0314,2024-11-27,Real Estate,1000+
+315,Company_0315,2024-07-16,Manufacturing,11-50
+316,Company_0316,2024-03-11,Healthcare,501-1000
+317,Company_0317,2023-05-11,Media,51-200
+318,Company_0318,2022-08-10,Media,201-500
+319,Company_0319,2022-07-18,Technology,51-200
+320,Company_0320,2022-11-11,Education,11-50
+321,Company_0321,2023-10-25,Media,501-1000
+322,Company_0322,2024-03-27,Technology,51-200
+323,Company_0323,2024-02-18,Real Estate,11-50
+324,Company_0324,2023-01-07,Consulting,11-50
+325,Company_0325,2024-11-25,Real Estate,51-200
+326,Company_0326,2024-04-25,Technology,11-50
+327,Company_0327,2023-10-18,Finance,501-1000
+328,Company_0328,2024-01-15,Real Estate,1-10
+329,Company_0329,2023-06-21,Logistics,201-500
+330,Company_0330,2022-11-23,Finance,11-50
+331,Company_0331,2023-03-01,Consulting,11-50
+332,Company_0332,2024-05-08,Healthcare,51-200
+333,Company_0333,2022-01-04,Finance,51-200
+334,Company_0334,2022-05-23,Education,51-200
+335,Company_0335,2022-02-09,Media,201-500
+336,Company_0336,2022-02-16,Retail,51-200
+337,Company_0337,2024-08-05,Media,11-50
+338,Company_0338,2024-03-20,Consulting,201-500
+339,Company_0339,2023-08-05,Healthcare,11-50
+340,Company_0340,2022-04-26,Media,11-50
+341,Company_0341,2023-08-26,Consulting,11-50
+342,Company_0342,2023-08-01,Education,201-500
+343,Company_0343,2022-08-27,Logistics,51-200
+344,Company_0344,2023-06-22,Real Estate,501-1000
+345,Company_0345,2023-05-15,Consulting,51-200
+346,Company_0346,2024-01-11,Consulting,201-500
+347,Company_0347,2024-01-13,Real Estate,501-1000
+348,Company_0348,2022-02-28,Retail,1000+
+349,Company_0349,2023-04-08,Logistics,11-50
+350,Company_0350,2024-01-28,Media,1-10
+351,Company_0351,2023-09-24,Real Estate,201-500
+352,Company_0352,2024-08-26,Media,11-50
+353,Company_0353,2024-02-22,Finance,51-200
+354,Company_0354,2022-08-02,Finance,51-200
+355,Company_0355,2022-03-19,Manufacturing,501-1000
+356,Company_0356,2024-01-28,Real Estate,1-10
+357,Company_0357,2022-01-15,Technology,201-500
+358,Company_0358,2023-12-14,Finance,1-10
+359,Company_0359,2024-10-26,Education,11-50
+360,Company_0360,2023-11-23,Media,51-200
+361,Company_0361,2023-04-28,Manufacturing,501-1000
+362,Company_0362,2024-01-28,Consulting,11-50
+363,Company_0363,2023-07-11,Real Estate,501-1000
+364,Company_0364,2023-10-02,Logistics,1-10
+365,Company_0365,2024-10-21,Education,1000+
+366,Company_0366,2023-04-24,Healthcare,11-50
+367,Company_0367,2024-11-04,Healthcare,11-50
+368,Company_0368,2024-09-23,Education,501-1000
+369,Company_0369,2022-09-02,Manufacturing,201-500
+370,Company_0370,2022-03-10,Manufacturing,11-50
+371,Company_0371,2022-05-05,Retail,51-200
+372,Company_0372,2022-01-19,Finance,11-50
+373,Company_0373,2022-04-03,Logistics,501-1000
+374,Company_0374,2024-02-20,Retail,51-200
+375,Company_0375,2022-03-19,Finance,11-50
+376,Company_0376,2023-02-21,Education,51-200
+377,Company_0377,2024-08-22,Technology,501-1000
+378,Company_0378,2022-01-15,Education,51-200
+379,Company_0379,2024-07-06,Healthcare,11-50
+380,Company_0380,2023-01-12,Logistics,11-50
+381,Company_0381,2022-06-14,Education,51-200
+382,Company_0382,2024-03-10,Retail,1000+
+383,Company_0383,2024-01-28,Real Estate,1-10
+384,Company_0384,2024-08-13,Logistics,11-50
+385,Company_0385,2024-04-10,Education,1-10
+386,Company_0386,2024-06-27,Media,11-50
+387,Company_0387,2023-01-19,Technology,501-1000
+388,Company_0388,2022-08-24,Real Estate,201-500
+389,Company_0389,2024-04-10,Retail,51-200
+390,Company_0390,2024-06-12,Retail,51-200
+391,Company_0391,2024-12-20,Education,51-200
+392,Company_0392,2023-05-24,Finance,51-200
+393,Company_0393,2023-04-21,Technology,11-50
+394,Company_0394,2024-05-15,Technology,51-200
+395,Company_0395,2023-02-24,Finance,1-10
+396,Company_0396,2024-10-10,Manufacturing,201-500
+397,Company_0397,2024-08-06,Retail,1-10
+398,Company_0398,2023-06-18,Manufacturing,51-200
+399,Company_0399,2024-04-09,Finance,11-50
+400,Company_0400,2024-05-27,Real Estate,1000+
+401,Company_0401,2022-05-10,Manufacturing,201-500
+402,Company_0402,2024-09-15,Healthcare,1-10
+403,Company_0403,2023-09-08,Media,1000+
+404,Company_0404,2024-07-26,Consulting,11-50
+405,Company_0405,2023-02-26,Media,1-10
+406,Company_0406,2024-09-18,Healthcare,51-200
+407,Company_0407,2023-04-22,Education,51-200
+408,Company_0408,2022-01-27,Manufacturing,1-10
+409,Company_0409,2024-09-08,Real Estate,1-10
+410,Company_0410,2022-04-18,Manufacturing,501-1000
+411,Company_0411,2023-02-08,Healthcare,51-200
+412,Company_0412,2024-10-15,Education,51-200
+413,Company_0413,2024-10-04,Finance,1-10
+414,Company_0414,2023-11-02,Education,1000+
+415,Company_0415,2024-01-04,Healthcare,11-50
+416,Company_0416,2023-07-18,Finance,11-50
+417,Company_0417,2023-01-12,Consulting,11-50
+418,Company_0418,2023-02-24,Finance,501-1000
+419,Company_0419,2024-02-21,Healthcare,201-500
+420,Company_0420,2024-05-20,Media,501-1000
+421,Company_0421,2024-06-09,Technology,51-200
+422,Company_0422,2024-06-07,Real Estate,11-50
+423,Company_0423,2022-04-08,Manufacturing,1-10
+424,Company_0424,2023-08-22,Manufacturing,51-200
+425,Company_0425,2022-02-21,Manufacturing,1-10
+426,Company_0426,2023-10-09,Retail,1000+
+427,Company_0427,2023-06-28,Real Estate,1-10
+428,Company_0428,2024-09-07,Logistics,1000+
+429,Company_0429,2023-03-02,Manufacturing,11-50
+430,Company_0430,2022-05-05,Logistics,11-50
+431,Company_0431,2022-07-27,Consulting,11-50
+432,Company_0432,2024-05-07,Retail,11-50
+433,Company_0433,2024-01-05,Logistics,1-10
+434,Company_0434,2022-05-28,Finance,1000+
+435,Company_0435,2022-04-18,Education,201-500
+436,Company_0436,2024-03-04,Technology,1-10
+437,Company_0437,2022-03-12,Retail,51-200
+438,Company_0438,2024-07-01,Finance,11-50
+439,Company_0439,2024-03-05,Media,51-200
+440,Company_0440,2022-04-24,Healthcare,51-200
+441,Company_0441,2022-04-25,Manufacturing,51-200
+442,Company_0442,2024-12-04,Real Estate,51-200
+443,Company_0443,2023-04-20,Technology,201-500
+444,Company_0444,2023-04-28,Consulting,11-50
+445,Company_0445,2024-07-21,Technology,1-10
+446,Company_0446,2024-10-16,Media,11-50
+447,Company_0447,2024-12-04,Real Estate,201-500
+448,Company_0448,2024-05-15,Healthcare,501-1000
+449,Company_0449,2023-04-11,Logistics,1-10
+450,Company_0450,2022-04-05,Education,51-200
+451,Company_0451,2024-05-19,Consulting,201-500
+452,Company_0452,2023-10-13,Logistics,51-200
+453,Company_0453,2023-06-15,Consulting,51-200
+454,Company_0454,2024-09-04,Healthcare,501-1000
+455,Company_0455,2022-05-21,Consulting,201-500
+456,Company_0456,2023-08-07,Media,51-200
+457,Company_0457,2022-01-08,Media,11-50
+458,Company_0458,2023-08-15,Media,11-50
+459,Company_0459,2022-02-04,Manufacturing,11-50
+460,Company_0460,2022-06-22,Education,11-50
+461,Company_0461,2022-05-05,Real Estate,1-10
+462,Company_0462,2024-02-27,Healthcare,1-10
+463,Company_0463,2024-04-04,Manufacturing,201-500
+464,Company_0464,2023-12-18,Technology,51-200
+465,Company_0465,2024-11-18,Consulting,11-50
+466,Company_0466,2023-04-04,Media,11-50
+467,Company_0467,2023-01-22,Media,501-1000
+468,Company_0468,2024-08-24,Technology,1000+
+469,Company_0469,2022-10-20,Education,11-50
+470,Company_0470,2024-11-19,Consulting,11-50
+471,Company_0471,2022-01-22,Real Estate,11-50
+472,Company_0472,2024-11-04,Manufacturing,201-500
+473,Company_0473,2022-02-12,Healthcare,201-500
+474,Company_0474,2024-09-19,Retail,201-500
+475,Company_0475,2023-09-28,Consulting,1000+
+476,Company_0476,2024-12-27,Logistics,51-200
+477,Company_0477,2022-03-21,Consulting,1-10
+478,Company_0478,2023-10-22,Education,1-10
+479,Company_0479,2024-11-09,Education,501-1000
+480,Company_0480,2023-09-12,Technology,11-50
+481,Company_0481,2024-01-05,Logistics,51-200
+482,Company_0482,2024-03-03,Finance,201-500
+483,Company_0483,2023-07-01,Healthcare,201-500
+484,Company_0484,2024-01-07,Media,11-50
+485,Company_0485,2023-12-11,Finance,11-50
+486,Company_0486,2024-09-24,Manufacturing,201-500
+487,Company_0487,2022-02-19,Logistics,1-10
+488,Company_0488,2023-01-02,Finance,11-50
+489,Company_0489,2024-10-20,Technology,51-200
+490,Company_0490,2024-09-09,Real Estate,51-200
+491,Company_0491,2023-07-16,Logistics,11-50
+492,Company_0492,2024-01-09,Retail,201-500
+493,Company_0493,2023-01-04,Manufacturing,11-50
+494,Company_0494,2022-09-10,Logistics,51-200
+495,Company_0495,2023-07-22,Education,1-10
+496,Company_0496,2023-03-13,Logistics,1-10
+497,Company_0497,2023-12-07,Education,501-1000
+498,Company_0498,2022-03-25,Finance,201-500
+499,Company_0499,2024-11-10,Manufacturing,1-10
+500,Company_0500,2024-12-16,Media,11-50
+501,Company_0501,2024-03-13,Consulting,201-500
+502,Company_0502,2023-09-17,Consulting,201-500
+503,Company_0503,2023-02-26,Manufacturing,1-10
+504,Company_0504,2024-07-28,Technology,11-50
+505,Company_0505,2024-02-15,Healthcare,501-1000
+506,Company_0506,2022-08-19,Media,51-200
+507,Company_0507,2024-09-23,Media,11-50
+508,Company_0508,2024-07-13,Technology,1000+
+509,Company_0509,2024-10-06,Logistics,51-200
+510,Company_0510,2024-04-23,Manufacturing,1-10
+511,Company_0511,2024-01-28,Healthcare,11-50
+512,Company_0512,2023-06-19,Media,51-200
+513,Company_0513,2024-10-13,Education,201-500
+514,Company_0514,2024-08-08,Manufacturing,201-500
+515,Company_0515,2022-02-03,Consulting,51-200
+516,Company_0516,2022-01-17,Consulting,11-50
+517,Company_0517,2023-04-25,Manufacturing,11-50
+518,Company_0518,2024-06-27,Finance,11-50
+519,Company_0519,2024-12-05,Education,11-50
+520,Company_0520,2022-07-20,Finance,201-500
+521,Company_0521,2023-12-21,Healthcare,11-50
+522,Company_0522,2023-04-25,Real Estate,51-200
+523,Company_0523,2024-11-19,Logistics,11-50
+524,Company_0524,2024-08-19,Logistics,11-50
+525,Company_0525,2024-07-21,Manufacturing,11-50
+526,Company_0526,2023-08-03,Real Estate,11-50
+527,Company_0527,2023-05-10,Education,51-200
+528,Company_0528,2023-01-12,Consulting,1-10
+529,Company_0529,2022-02-15,Real Estate,1-10
+530,Company_0530,2024-08-12,Education,1-10
+531,Company_0531,2024-07-28,Healthcare,51-200
+532,Company_0532,2024-12-17,Media,51-200
+533,Company_0533,2024-12-18,Technology,11-50
+534,Company_0534,2023-10-26,Logistics,51-200
+535,Company_0535,2024-05-11,Logistics,51-200
+536,Company_0536,2024-10-05,Technology,51-200
+537,Company_0537,2024-08-26,Manufacturing,1000+
+538,Company_0538,2022-11-03,Consulting,51-200
+539,Company_0539,2023-07-02,Retail,201-500
+540,Company_0540,2022-06-15,Consulting,51-200
+541,Company_0541,2024-10-06,Manufacturing,11-50
+542,Company_0542,2024-01-10,Media,11-50
+543,Company_0543,2022-10-11,Logistics,1-10
+544,Company_0544,2024-02-21,Manufacturing,1-10
+545,Company_0545,2024-01-04,Consulting,51-200
+546,Company_0546,2023-03-10,Education,201-500
+547,Company_0547,2022-05-22,Logistics,501-1000
+548,Company_0548,2024-02-11,Healthcare,51-200
+549,Company_0549,2023-09-05,Manufacturing,11-50
+550,Company_0550,2024-05-21,Media,1-10
+551,Company_0551,2023-09-23,Healthcare,11-50
+552,Company_0552,2024-08-13,Manufacturing,201-500
+553,Company_0553,2023-10-22,Consulting,1-10
+554,Company_0554,2023-10-22,Media,51-200
+555,Company_0555,2024-08-01,Manufacturing,11-50
+556,Company_0556,2023-05-07,Manufacturing,501-1000
+557,Company_0557,2022-06-16,Retail,11-50
+558,Company_0558,2022-01-05,Finance,1-10
+559,Company_0559,2024-05-28,Healthcare,51-200
+560,Company_0560,2024-01-18,Consulting,1-10
+561,Company_0561,2024-03-11,Logistics,1-10
+562,Company_0562,2022-09-13,Finance,11-50
+563,Company_0563,2022-06-27,Logistics,201-500
+564,Company_0564,2022-01-06,Real Estate,1-10
+565,Company_0565,2023-03-12,Retail,1000+
+566,Company_0566,2023-12-20,Education,201-500
+567,Company_0567,2023-04-26,Real Estate,11-50
+568,Company_0568,2023-06-08,Education,1000+
+569,Company_0569,2024-09-26,Real Estate,501-1000
+570,Company_0570,2023-03-07,Manufacturing,51-200
+571,Company_0571,2023-09-19,Real Estate,51-200
+572,Company_0572,2024-06-10,Media,51-200
+573,Company_0573,2023-05-14,Finance,201-500
+574,Company_0574,2024-01-26,Logistics,1-10
+575,Company_0575,2024-08-09,Technology,51-200
+576,Company_0576,2024-10-28,Manufacturing,51-200
+577,Company_0577,2022-07-04,Consulting,501-1000
+578,Company_0578,2024-10-10,Healthcare,201-500
+579,Company_0579,2023-08-09,Real Estate,501-1000
+580,Company_0580,2022-12-05,Media,1-10
+581,Company_0581,2023-07-08,Real Estate,501-1000
+582,Company_0582,2024-12-01,Media,1-10
+583,Company_0583,2023-08-17,Manufacturing,11-50
+584,Company_0584,2023-02-03,Manufacturing,11-50
+585,Company_0585,2024-01-11,Healthcare,201-500
+586,Company_0586,2022-11-21,Manufacturing,201-500
+587,Company_0587,2022-03-05,Technology,11-50
+588,Company_0588,2022-06-27,Real Estate,51-200
+589,Company_0589,2022-06-05,Real Estate,11-50
+590,Company_0590,2022-07-01,Healthcare,1-10
+591,Company_0591,2022-07-07,Finance,51-200
+592,Company_0592,2024-01-24,Logistics,51-200
+593,Company_0593,2022-08-04,Education,11-50
+594,Company_0594,2023-03-04,Technology,11-50
+595,Company_0595,2024-09-21,Logistics,51-200
+596,Company_0596,2023-08-04,Real Estate,51-200
+597,Company_0597,2024-02-01,Consulting,51-200
+598,Company_0598,2022-08-23,Finance,11-50
+599,Company_0599,2022-09-01,Logistics,11-50
+600,Company_0600,2022-02-19,Media,11-50
+601,Company_0601,2022-08-22,Healthcare,51-200
+602,Company_0602,2023-01-12,Healthcare,1000+
+603,Company_0603,2022-08-18,Consulting,201-500
+604,Company_0604,2022-04-17,Consulting,1-10
+605,Company_0605,2022-06-28,Real Estate,1-10
+606,Company_0606,2023-07-13,Manufacturing,11-50
+607,Company_0607,2022-09-01,Manufacturing,201-500
+608,Company_0608,2023-03-12,Retail,201-500
+609,Company_0609,2023-09-21,Healthcare,201-500
+610,Company_0610,2024-02-24,Manufacturing,1-10
+611,Company_0611,2022-02-12,Consulting,11-50
+612,Company_0612,2024-06-21,Finance,201-500
+613,Company_0613,2024-01-22,Real Estate,1000+
+614,Company_0614,2022-04-16,Finance,201-500
+615,Company_0615,2024-08-03,Real Estate,1-10
+616,Company_0616,2024-09-07,Technology,201-500
+617,Company_0617,2022-03-02,Manufacturing,501-1000
+618,Company_0618,2023-01-17,Media,1000+
+619,Company_0619,2024-06-18,Real Estate,11-50
+620,Company_0620,2024-04-25,Retail,11-50
+621,Company_0621,2022-08-28,Technology,501-1000
+622,Company_0622,2022-09-11,Education,1-10
+623,Company_0623,2023-04-12,Media,501-1000
+624,Company_0624,2023-08-24,Real Estate,501-1000
+625,Company_0625,2024-01-13,Manufacturing,1000+
+626,Company_0626,2023-04-16,Real Estate,11-50
+627,Company_0627,2023-07-26,Consulting,11-50
+628,Company_0628,2024-04-03,Media,1-10
+629,Company_0629,2022-02-20,Finance,51-200
+630,Company_0630,2022-11-11,Healthcare,1-10
+631,Company_0631,2024-03-22,Education,11-50
+632,Company_0632,2024-09-20,Media,11-50
+633,Company_0633,2023-09-15,Manufacturing,11-50
+634,Company_0634,2023-09-24,Manufacturing,51-200
+635,Company_0635,2022-05-14,Education,51-200
+636,Company_0636,2023-07-26,Technology,1-10
+637,Company_0637,2023-09-21,Media,11-50
+638,Company_0638,2022-11-26,Finance,1000+
+639,Company_0639,2023-01-05,Logistics,51-200
+640,Company_0640,2023-04-15,Technology,1-10
+641,Company_0641,2022-01-08,Manufacturing,11-50
+642,Company_0642,2023-02-19,Technology,51-200
+643,Company_0643,2022-09-22,Real Estate,501-1000
+644,Company_0644,2023-02-12,Real Estate,201-500
+645,Company_0645,2022-06-19,Finance,51-200
+646,Company_0646,2024-09-13,Manufacturing,51-200
+647,Company_0647,2023-12-08,Healthcare,1-10
+648,Company_0648,2024-02-06,Real Estate,51-200
+649,Company_0649,2024-06-18,Healthcare,11-50
+650,Company_0650,2023-08-09,Real Estate,11-50
+651,Company_0651,2022-04-20,Education,51-200
+652,Company_0652,2023-10-16,Retail,1-10
+653,Company_0653,2023-12-28,Healthcare,51-200
+654,Company_0654,2024-04-23,Real Estate,1000+
+655,Company_0655,2023-06-26,Manufacturing,51-200
+656,Company_0656,2022-06-23,Healthcare,51-200
+657,Company_0657,2023-01-10,Education,501-1000
+658,Company_0658,2023-03-23,Finance,201-500
+659,Company_0659,2024-01-17,Retail,1-10
+660,Company_0660,2023-11-07,Finance,11-50
+661,Company_0661,2023-03-16,Technology,11-50
+662,Company_0662,2024-12-19,Manufacturing,51-200
+663,Company_0663,2024-01-18,Finance,51-200
+664,Company_0664,2022-11-03,Healthcare,11-50
+665,Company_0665,2022-05-23,Real Estate,51-200
+666,Company_0666,2022-07-25,Media,201-500
+667,Company_0667,2022-11-03,Finance,1000+
+668,Company_0668,2022-08-21,Healthcare,11-50
+669,Company_0669,2022-08-22,Consulting,11-50
+670,Company_0670,2023-01-27,Consulting,51-200
+671,Company_0671,2022-08-06,Finance,11-50
+672,Company_0672,2024-09-28,Technology,201-500
+673,Company_0673,2022-04-17,Finance,11-50
+674,Company_0674,2023-09-06,Manufacturing,501-1000
+675,Company_0675,2023-05-08,Manufacturing,501-1000
+676,Company_0676,2024-12-17,Education,201-500
+677,Company_0677,2022-05-09,Retail,51-200
+678,Company_0678,2023-05-18,Education,1-10
+679,Company_0679,2024-11-10,Logistics,51-200
+680,Company_0680,2024-08-17,Finance,51-200
+681,Company_0681,2024-07-19,Finance,11-50
+682,Company_0682,2022-12-20,Logistics,11-50
+683,Company_0683,2022-08-19,Technology,201-500
+684,Company_0684,2024-02-01,Healthcare,1-10
+685,Company_0685,2024-10-21,Logistics,11-50
+686,Company_0686,2023-10-07,Logistics,11-50
+687,Company_0687,2023-11-21,Technology,51-200
+688,Company_0688,2023-01-21,Consulting,11-50
+689,Company_0689,2024-05-10,Real Estate,11-50
+690,Company_0690,2022-09-26,Media,11-50
+691,Company_0691,2023-02-03,Technology,11-50
+692,Company_0692,2023-06-14,Real Estate,51-200
+693,Company_0693,2023-09-11,Logistics,1-10
+694,Company_0694,2022-11-28,Manufacturing,201-500
+695,Company_0695,2022-05-28,Manufacturing,1000+
+696,Company_0696,2024-01-05,Manufacturing,51-200
+697,Company_0697,2023-01-04,Manufacturing,11-50
+698,Company_0698,2023-11-04,Education,11-50
+699,Company_0699,2022-07-05,Healthcare,1-10
+700,Company_0700,2023-08-13,Logistics,11-50
+701,Company_0701,2023-09-28,Finance,201-500
+702,Company_0702,2022-02-19,Manufacturing,11-50
+703,Company_0703,2023-02-06,Real Estate,1000+
+704,Company_0704,2022-06-15,Real Estate,501-1000
+705,Company_0705,2022-03-16,Technology,1-10
+706,Company_0706,2024-12-13,Consulting,51-200
+707,Company_0707,2023-02-08,Retail,51-200
+708,Company_0708,2024-06-02,Technology,11-50
+709,Company_0709,2022-12-20,Real Estate,11-50
+710,Company_0710,2024-02-01,Healthcare,11-50
+711,Company_0711,2024-05-09,Manufacturing,201-500
+712,Company_0712,2023-12-12,Technology,11-50
+713,Company_0713,2023-08-19,Consulting,11-50
+714,Company_0714,2023-05-18,Education,1-10
+715,Company_0715,2023-03-17,Real Estate,201-500
+716,Company_0716,2024-10-09,Logistics,51-200
+717,Company_0717,2024-07-04,Finance,1000+
+718,Company_0718,2024-11-13,Manufacturing,201-500
+719,Company_0719,2022-06-11,Consulting,501-1000
+720,Company_0720,2024-04-25,Finance,11-50
+721,Company_0721,2024-10-17,Media,51-200
+722,Company_0722,2022-08-02,Technology,1-10
+723,Company_0723,2022-03-11,Real Estate,51-200
+724,Company_0724,2024-04-05,Logistics,501-1000
+725,Company_0725,2023-11-05,Manufacturing,501-1000
+726,Company_0726,2024-08-11,Finance,11-50
+727,Company_0727,2022-07-20,Education,51-200
+728,Company_0728,2024-06-17,Consulting,51-200
+729,Company_0729,2022-09-23,Logistics,11-50
+730,Company_0730,2022-08-27,Technology,11-50
+731,Company_0731,2022-08-22,Healthcare,1000+
+732,Company_0732,2024-07-19,Education,201-500
+733,Company_0733,2024-02-24,Technology,51-200
+734,Company_0734,2023-09-09,Logistics,51-200
+735,Company_0735,2023-03-24,Technology,51-200
+736,Company_0736,2024-08-06,Consulting,51-200
+737,Company_0737,2023-05-20,Media,1-10
+738,Company_0738,2024-07-22,Retail,1-10
+739,Company_0739,2023-06-23,Healthcare,11-50
+740,Company_0740,2023-04-15,Manufacturing,11-50
+741,Company_0741,2023-07-14,Retail,11-50
+742,Company_0742,2023-01-25,Logistics,501-1000
+743,Company_0743,2024-04-28,Technology,201-500
+744,Company_0744,2023-09-17,Retail,51-200
+745,Company_0745,2022-10-22,Real Estate,51-200
+746,Company_0746,2024-09-11,Finance,51-200
+747,Company_0747,2023-04-18,Manufacturing,51-200
+748,Company_0748,2023-10-22,Education,51-200
+749,Company_0749,2024-09-07,Retail,11-50
+750,Company_0750,2024-01-10,Retail,501-1000
+751,Company_0751,2022-05-10,Education,201-500
+752,Company_0752,2024-10-23,Real Estate,11-50
+753,Company_0753,2024-01-12,Consulting,501-1000
+754,Company_0754,2023-02-26,Education,11-50
+755,Company_0755,2022-07-19,Consulting,11-50
+756,Company_0756,2024-06-13,Manufacturing,1000+
+757,Company_0757,2024-01-26,Finance,11-50
+758,Company_0758,2023-09-10,Healthcare,11-50
+759,Company_0759,2024-09-15,Education,201-500
+760,Company_0760,2024-06-07,Retail,201-500
+761,Company_0761,2022-07-09,Consulting,51-200
+762,Company_0762,2023-02-05,Healthcare,51-200
+763,Company_0763,2022-11-19,Retail,11-50
+764,Company_0764,2024-04-22,Consulting,11-50
+765,Company_0765,2022-02-08,Technology,1-10
+766,Company_0766,2023-11-11,Real Estate,1-10
+767,Company_0767,2024-05-25,Finance,1-10
+768,Company_0768,2024-08-18,Finance,11-50
+769,Company_0769,2023-02-16,Real Estate,51-200
+770,Company_0770,2024-07-25,Education,11-50
+771,Company_0771,2022-05-21,Technology,501-1000
+772,Company_0772,2024-08-03,Logistics,11-50
+773,Company_0773,2022-06-24,Technology,501-1000
+774,Company_0774,2023-05-06,Media,501-1000
+775,Company_0775,2024-06-06,Technology,1000+
+776,Company_0776,2022-07-13,Real Estate,11-50
+777,Company_0777,2022-10-24,Education,501-1000
+778,Company_0778,2024-04-01,Education,51-200
+779,Company_0779,2024-03-04,Manufacturing,11-50
+780,Company_0780,2024-01-21,Consulting,51-200
+781,Company_0781,2024-03-05,Consulting,51-200
+782,Company_0782,2023-10-07,Healthcare,11-50
+783,Company_0783,2022-11-24,Real Estate,51-200
+784,Company_0784,2023-03-23,Finance,1-10
+785,Company_0785,2022-08-11,Education,51-200
+786,Company_0786,2024-09-25,Retail,11-50
+787,Company_0787,2023-12-28,Media,201-500
+788,Company_0788,2023-05-17,Manufacturing,1-10
+789,Company_0789,2023-07-22,Healthcare,11-50
+790,Company_0790,2024-10-05,Real Estate,11-50
+791,Company_0791,2022-07-08,Technology,11-50
+792,Company_0792,2023-12-08,Real Estate,201-500
+793,Company_0793,2023-09-11,Education,51-200
+794,Company_0794,2024-01-19,Technology,11-50
+795,Company_0795,2022-01-12,Retail,1-10
+796,Company_0796,2024-08-04,Real Estate,11-50
+797,Company_0797,2024-10-13,Consulting,501-1000
+798,Company_0798,2023-11-23,Education,51-200
+799,Company_0799,2024-03-21,Education,11-50
+800,Company_0800,2024-09-08,Retail,1000+
